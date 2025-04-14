@@ -6,7 +6,7 @@
 
 
 ## 👋 **Hello!**
-### 💻 **Java Backend Developer** | 🎓 **AI Master's Student** | 🏋️ **Fitness Enthusiast**  
+### 💻 **Backend Development Engineer** | 🎓 **AI Master's Student** | 🏋️ **Fitness Enthusiast**  
 
 - 🚀 Passionate about **backend development, AI, and system architecture**  
 - 🤝 Open to **collaborations on microservices & AI projects**  
