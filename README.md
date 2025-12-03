@@ -21,12 +21,12 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/Zhangwhhoumiandoushixiadade">
+        <a href="https://github.com/zhangKoa">
           <img src="https://github-readme-stats.vercel.app/api?username=zhangKoa&show_icons=true&theme=transparent" width="400px">
         </a>
       </td>
       <td>
-        <a href="https://github.com/Zhangwhhoumiandoushixiadade">
+        <a href="https://github.com/zhangKoa">
           <img src="https://streak-stats.demolab.com/?user=zhangKoa&theme=transparent" width="400px">
         </a>
       </td>
@@ -35,7 +35,7 @@
 
   <br>
 
-  <a href="https://github.com/Zhangwhhoumiandoushixiadade">
+  <a href="https://github.com/zhangKoa">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangKoa&layout=compact&theme=transparent" width="500px">
   </a>
 </div>
