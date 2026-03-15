@@ -24,9 +24,10 @@
         <br>
         <ul>
           <li>🚀 Passionate about <b>backend development, AI, and system architecture</b></li>
+          
           <li>🤝 Open to <b>collaborations on microservices & AI projects</b></li>
+          
           <li>🎯 Fitness and coding go hand in hand – <b>train hard, code harder!</b></li>
-          <li>⚡ <b>Fun facts:</b> I like fitness, minimalist setups, Apple-style design, and coding at 1.5x speed.</li>
         </ul>
       </td>
     </tr>
