@@ -1,6 +1,4 @@
-<div align="right">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=zhangKoa.visitor-badge" alt="visitor badge"/>
-</div>
+
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -13,7 +11,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%" valign="top">
+      <td >
         <h3>💻 Backend Development Engineer | 🎓 AI Master's Student | 🏋️ Fitness Enthusiast</h3>
         <br>
         <ul>
@@ -46,9 +44,5 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangKoa&theme=radical&line_height=27&hide=glsl&layout=compact" height="165" alt="Top Langs" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=zhangKoa&theme=radical&background=141321" height="165" alt="GitHub Streak" />
-</p>
+
