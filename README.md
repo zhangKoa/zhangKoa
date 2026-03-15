@@ -1,5 +1,6 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=zhangKoa.visitor-badge">
-
+<div align="right">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=zhangKoa.visitor-badge" alt="visitor badge"/>
+</div>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -7,56 +8,47 @@
     </a>
 </div>
 
+<br/>
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        <h3>💻 Backend Development Engineer | 🎓 AI Master's Student | 🏋️ Fitness Enthusiast</h3>
+        <br>
+        <ul>
+          <li>🚀 Passionate about <b>backend development, AI, and system architecture</b></li>
+          <li>🤝 Open to <b>collaborations on microservices & AI projects</b></li>
+          <li>🎯 Fitness and coding go hand in hand – <b>train hard, code harder!</b></li>
+          <li>⚡ <b>Fun facts:</b> I like fitness, minimalist setups, Apple-style design, and coding at 1.5x speed.</li>
+        </ul>
+      </td>
+      <td width="40%" align="center" valign="center">
+        <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" width="280" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
 
-<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" align="right" width="300" />
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-### 💻 **Backend Development Engineer** | 🎓 **AI Master's Student** | 🏋️ **Fitness Enthusiast**  
-
-- 🚀 Passionate about **backend development, AI, and system architecture**  
-- 🤝 Open to **collaborations on microservices & AI projects**  
-- 🎯 Fitness and coding go hand in hand – **train hard, code harder!**  
-- ⚡ <b>Fun facts:</b><br>
-      I like fitness, minimalist setups, Apple-style design, and coding at 1.5x speed.
-
-
-<h2 align="center">😎 About Me</h2>
-
-<h5 align="center">
-
-<!-- <a align="center" href="https://www.linkedin.com/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
-<a href="https://leetcode.cn/u/" title="Leetcode Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
-<a align="center" href="https://www.instagram.com/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a> •
-<a href="https://twitter.com/" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a> -->
-
-</h5>
-
-<h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center"> 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></code>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45" height="45" alt="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
 </p>
 
 ---
 
-<h2 align="center">📊 Github Stats</h2>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangKoa&theme=radical&line_height=27&hide=glsl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangKoa&theme=radical&line_height=27&hide=glsl&layout=compact" height="165" alt="Top Langs" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zhangKoa&theme=radical&background=141321" height="165" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zhangKoa&theme=dark&background=141321" />
-</p>
-
----
-
-
----
-
