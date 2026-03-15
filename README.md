@@ -10,7 +10,8 @@
 <br/>
 
 <div align="left" style="width: 100%; padding-left: 10px;">
-  <h3>💻 Fullstack Development Engineer | 🎓 AI Master's Student | 🏋️ Fitness Enthusiast</h3>
+  <h3> Fullstack Development Engineer and  AI Practical Implementation </h3>
+  
   <br>
   <ul>
     <li>🚀 Passionate about <b>backend development, AI, and system architecture</b></li>
