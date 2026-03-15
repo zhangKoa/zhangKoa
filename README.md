@@ -24,9 +24,7 @@
         <br>
         <ul>
           <li>🚀 Passionate about <b>backend development, AI, and system architecture</b></li>
-          
           <li>🤝 Open to <b>collaborations on microservices & AI projects</b></li>
-          
           <li>🎯 Fitness and coding go hand in hand – <b>train hard, code harder!</b></li>
         </ul>
       </td>
