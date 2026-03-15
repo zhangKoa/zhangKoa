@@ -1,9 +1,17 @@
 
-
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1500&pause=500&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Welcome+to+my+homepage%2C+;I'm+Koa&color=A0A0A0" alt="Typing SVG">
-    </a>
+  <table border="0">
+    <tr>
+      <td align="center" valign="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1500&pause=500&center=true&vCenter=true&multiline=true&width=350&height=60&lines=Welcome+to+my+homepage%2C+;I'm+Koa&color=A0A0A0" alt="Typing SVG">
+        </a>
+      </td>
+      <td align="center" valign="center">
+        <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding GIF" width="120" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -20,9 +28,6 @@
           <li>🎯 Fitness and coding go hand in hand – <b>train hard, code harder!</b></li>
           <li>⚡ <b>Fun facts:</b> I like fitness, minimalist setups, Apple-style design, and coding at 1.5x speed.</li>
         </ul>
-      </td>
-      <td width="40%" align="center" valign="center">
-        <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" width="280" />
       </td>
     </tr>
   </table>
