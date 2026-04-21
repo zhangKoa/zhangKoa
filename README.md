@@ -4,7 +4,7 @@
   keep coding, keep learning
 </div>
 <div id="badges" align="center">
-    <div id="social">
+    <!-- <div id="social">
 		<a href="https://www.zhihu.com/people/kirito-38">
 			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-KiritoKing-blue" alt="Zhihu Badge"/>
 		</a>
@@ -14,7 +14,7 @@
         <a href="https://chlorinec.top">
 			<img src="https://img.shields.io/badge/Blog-ChlorineC-green" alt="Blog Badge"/>
 		</a>
-    </div>
+    </div> -->
   	<div id="info">
         <img src="https://img.shields.io/github/stars/KiritoKing?style=social" alt="Github Stars"/>
         <img src="https://img.shields.io/github/followers/KiritoKing?style=social" alt="Github Followers"/>
