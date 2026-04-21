@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" width="100"/>
-  <h3>Chlorine Chen</h3>
+  <h3>Koa Zhang</h3>
   keep coding, keep learning
 </div>
 <div id="badges" align="center">
@@ -16,11 +16,10 @@
 		</a>
     </div> -->
   	<div id="info">
-        <img src="https://img.shields.io/github/stars/KiritoKing?style=social" alt="Github Stars"/>
-        <img src="https://img.shields.io/github/followers/KiritoKing?style=social" alt="Github Followers"/>
+        <img src="https://img.shields.io/github/stars/zhangKoa?style=social" alt="Github Stars"/>
+        <img src="https://img.shields.io/github/followers/zhangKoa?style=social" alt="Github Followers"/>
     </div>
 </div>
-
 
 
 
