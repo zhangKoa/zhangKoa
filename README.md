@@ -1,22 +1,38 @@
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1500&pause=500&center=true&vCenter=true&multiline=true&width=350&height=60&lines=Welcome+to+my+homepage%2C+;I'm+Koa&color=A0A0A0" alt="Typing SVG" />
-    </a>
-    <img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding GIF" width="100" />
-  </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" width="100"/>
+  <h3>Chlorine Chen</h3>
+  keep coding, keep learning
+</div>
+<div id="badges" align="center">
+    <div id="social">
+		<a href="https://www.zhihu.com/people/kirito-38">
+			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-KiritoKing-blue" alt="Zhihu Badge"/>
+		</a>
+		<a href="https://space.bilibili.com/8408315">
+			<img src="https://img.shields.io/badge/Bilibili-ChlorineC%E5%95%A5%E9%83%BD%E4%B8%8D%E4%BC%9A-red" alt="Bilibili Badge"/>
+		</a>
+        <a href="https://chlorinec.top">
+			<img src="https://img.shields.io/badge/Blog-ChlorineC-green" alt="Blog Badge"/>
+		</a>
+    </div>
+  	<div id="info">
+        <img src="https://img.shields.io/github/stars/KiritoKing?style=social" alt="Github Stars"/>
+        <img src="https://img.shields.io/github/followers/KiritoKing?style=social" alt="Github Followers"/>
+    </div>
 </div>
 
-<br/>
 
-<div align="left" style="width: 100%; padding-left: 10px;">
-  <h3> Fullstack Development Engineer and  AI Practical Implementation </h3>
-  
-  <br>
-  <ul>
-    <li>🚀 Passionate about <b>backend development, AI, and system architecture</b></li>
-    <li>🤝 Open to <b>collaborations on microservices & AI projects</b></li>
-    <li>🎯 Fitness and coding go hand in hand – <b>train hard, code harder!</b></li>
-  </ul>
-</div>
 
+
+
+
+---
+
+## :fire:My Stats Board
+
+[<img src="https://streak-stats.demolab.com?user=KiritoKing&border_radius=5" alt="GitHub Streak" />](https://git.io/streak-stats)
+
+---
+
+
+You can see the projects I am proud of in my **Pinned Repos** below.
